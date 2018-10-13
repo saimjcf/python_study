@@ -3,6 +3,9 @@
 ## 書籍について
 実践力を身につける Pythonの教科書  
 https://amzn.to/2QLEVca
+  
+## ブックレビュー
+http://glasses-se-note.com/bookrecommend5/
 
 ### 目次
     Chapter 1 Pythonのインストールとプログラムの実行
